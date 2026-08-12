@@ -1,0 +1,12 @@
+industrial-cable-sizing
+│
+├── README.md
+│
+├── images
+│   ├── 01_Project_Overview.png
+│   ├── 02_Load_Current.png
+│   ├── 03_Cable_Selection.png
+│   ├── 04_Running_Voltage_Drop.png
+│   └── 05_Final_Deliverables.png
+│
+└── documents
